@@ -1,135 +1,201 @@
- <div align="center">
+ <div align="center" width="100%">
 
-# CHANCHAL PATEL
+# CHANCHAL PATEL<span>_</span>
 
-### Full Stack Web Developer
+### FULL STACK WEB DEVELOPER
 
-**Building digital experiences through code and creativity.**
+**A showcase of things I've designed, developed and built.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-171B3A?style=for-the-badge&logo=github)](https://github.com/Chanchal-patel23)
-[![Portfolio](https://img.shields.io/badge/Projects-087F8C?style=for-the-badge&logo=googlechrome&logoColor=white)](#projects)
-[![Website](https://img.shields.io/badge/Sharvaya_Technosoft-E9A23B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharvayatechnosoft.com/)
+[![PORTFOLIO](https://img.shields.io/badge/EXPLORE-PORTFOLIO-16A6AD?style=for-the-badge)](#-selected-projects)
+[![GITHUB](https://img.shields.io/badge/GITHUB-171B24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanchal-patel23)
 
 </div>
 
 ---
 
-## 📊 Portfolio Overview
+## ◈ DEVELOPER WORKSPACE
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="33%" align="center" bgcolor="#17343D">
 
-### 04
-**Projects**
+### <font color="#48DFE4">04</font>
 
-</td>
-<td align="center" width="25%">
+**PROJECTS**
 
-### 03
-**Live Websites**
+<sub>Selected work</sub>
 
 </td>
-<td align="center" width="25%">
+<td width="34%" align="center" bgcolor="#3B2C1E">
 
-### Full Stack
-**Development**
+### <font color="#FFBD68">03</font>
+
+**LIVE WEBSITES**
+
+<sub>Public projects</sub>
 
 </td>
-<td align="center" width="25%">
+<td width="33%" align="center" bgcolor="#302947">
 
-### 2026
-**Portfolio**
+### <font color="#BBA8FF">∞</font>
+
+**IDEAS**
+
+<sub>Always building</sub>
 
 </td>
 </tr>
 </table>
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT
 
-I'm a Full Stack Web Developer at **Sharvaya Technosoft**, working on modern websites, e-commerce platforms and web applications.
+I'm Chanchal Patel, a Full Stack Web Developer passionate about creating modern websites, e-commerce experiences and web applications.
 
-My focus is frontend development, backend functionality, API integration and creating practical digital solutions.
+My work combines frontend development, backend functionality, database integration and practical problem-solving.
 
-## 🚀 Projects
+---
 
-<table>
+## 🚀 SELECTED PROJECTS
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top" bgcolor="#102D32">
+
+<img src="https://img.shields.io/badge/01-E_COMMERCE-16A6AD?style=for-the-badge"/>
 
 ### 💎 Kajale Jewellers
 
+E-commerce website development and WooCommerce customization.
+
 `WordPress` `WooCommerce` `PHP`
 
-[Visit Website ↗](https://kajalejewellers.com/)
+**[EXPLORE PROJECT ↗](https://kajalejewellers.com/)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" bgcolor="#382B1B">
+
+<img src="https://img.shields.io/badge/02-BUSINESS-FFBD68?style=for-the-badge"/>
 
 ### 🍃 MKCR Foods
 
-`Website Development`
+Business website and digital brand presentation.
 
-[Visit Website ↗](https://www.mkcrfoods.com/)
+`Web Development` `Responsive Design`
+
+**[EXPLORE PROJECT ↗](https://www.mkcrfoods.com/)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" bgcolor="#252847">
+
+<img src="https://img.shields.io/badge/03-ENGINEERING-9B9FFF?style=for-the-badge"/>
 
 ### 🏭 Vishwas Engineering
 
-`Business Website`
+Engineering business website and product presentation.
 
-[Visit Website ↗](https://vishwasengineeringworks.in/)
+`Business Website` `Web Development`
+
+**[EXPLORE PROJECT ↗](https://vishwasengineeringworks.in/)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" bgcolor="#39242B">
+
+<img src="https://img.shields.io/badge/04-APPLICATION-FF8D9A?style=for-the-badge"/>
 
 ### 💻 ORGAN
 
+Application development and feature implementation.
+
 `Application Development`
 
-Project details coming soon.
+*Public project link coming soon.*
 
 </td>
 </tr>
 </table>
 
-## ⚙️ Technology Stack
+---
 
-**Frontend**
+## ⚡ TECHNOLOGY MATRIX
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**Backend & Database**
+### 🎨 FRONTEND
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" width="100%" alt="Frontend technologies"/>
 
-**Tools**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman,linux" />
+### ⚙️ BACKEND
 
-## 📈 GitHub Analytics
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" width="100%" alt="Backend technologies"/>
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chanchal-patel23&show_icons=true&hide_border=true&bg_color=101820&title_color=62E6D5&icon_color=E9A23B&text_color=FFFFFF"/>
+### 🗄️ DATABASE & CMS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanchal-patel23&layout=compact&hide_border=true&bg_color=101820&title_color=62E6D5&text_color=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=mysql,wordpress" width="100%" alt="Database and CMS"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chanchal-patel23&bg_color=101820&color=62E6D5&line=168DCC&point=E9A23B&area=true&hide_border=true"/>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🛠️ DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" width="100%" alt="Development tools"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
+## 📊 GITHUB ANALYTICS
+
+<div align="center" width="100%">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chanchal-patel23&bg_color=101820&color=48DFE4&line=16A6AD&point=FFBD68&area=true&hide_border=true&custom_title=MY%20DEVELOPMENT%20ACTIVITY" alt="GitHub activity graph"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Chanchal-patel23&show_icons=true&hide_border=true&bg_color=101820&title_color=48DFE4&icon_color=FFBD68&text_color=FFFFFF" alt="GitHub statistics"/>
+
+</td>
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanchal-patel23&layout=compact&hide_border=true&bg_color=101820&title_color=48DFE4&text_color=FFFFFF" alt="Language statistics"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 LET'S CONNECT
+
 <div align="center">
 
-### LET'S BUILD SOMETHING GREAT.
+### HAVE AN IDEA? LET'S BUILD IT.
 
-[![GitHub](https://img.shields.io/badge/CONNECT_ON_GITHUB-171B3A?style=for-the-badge&logo=github)](https://github.com/Chanchal-patel23)
+[![GitHub](https://img.shields.io/badge/GITHUB-171B24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanchal-patel23)
 
-**CHANCHAL PATEL** · Full Stack Web Developer
+<br/>
+
+**CHANCHAL PATEL**
+
+`BUILD` &nbsp; `CREATE` &nbsp; `INNOVATE`
+
+<sub>PERSONAL DEVELOPER WORKSPACE · 2026</sub>
 
 </div>
