@@ -1,298 +1,186 @@
- <div align="center">
-  <img src="assets/chanchal-patel-banner.png" width="100%" alt="Chanchal Patel — Full Stack Web Developer" />
+# CHANCHAL PATEL
+### Developer · Builder · Problem Solver
 
-  <br/>
+**A PORTFOLIO OF DIGITAL WORK — 2026**
 
-  # CHANCHAL PATEL
+I work across the web development stack, creating websites, e-commerce experiences and application solutions. My focus is turning requirements into useful, well-structured digital products.
 
-  ### FULL STACK WEB DEVELOPER
-
-  *Building digital experiences through code, creativity and technology.*
-
-  <br/>
-
-  [![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-C9AD79?style=for-the-badge&logoColor=111111)](#selected-work)
-  [![GitHub](https://img.shields.io/badge/GITHUB-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanchal-patel23)
-  [![Website](https://img.shields.io/badge/COMPANY_WEBSITE-242424?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharvayatechnosoft.com/)
-
-  <br/>
-
-  `DEVELOPMENT` &nbsp; · &nbsp; `ENGINEERING` &nbsp; · &nbsp; `INNOVATION`
-
-</div>
+[VIEW SELECTED WORK ↓](#selected-works) &nbsp; / &nbsp; [GITHUB PROFILE ↗](https://github.com/Chanchal-patel23)
 
 ---
 
-<div align="center">
-
-## ABOUT ME
-
-**Turning ideas into functional digital experiences.**
-
-</div>
-
-I'm a Full Stack Web Developer at **Sharvaya Technosoft**, focused on building modern websites, dynamic web applications, and practical digital solutions.
-
-I enjoy working across the development process—from creating user interfaces and developing backend functionality to integrating databases and implementing custom features.
-
-My goal is to create digital products that are not only visually appealing but also reliable, scalable, and easy to use.
-
-- Developing responsive and modern web applications.
-- Building frontend interfaces and backend systems.
-- Creating custom website functionality and integrations.
-- Working with APIs, databases, and content management systems.
-- Improving performance, usability, and application functionality.
-- Continuously learning and exploring modern technologies.
+| PROFILE | DETAILS |
+|:--|:--|
+| **NAME** | Chanchal Patel |
+| **ROLE** | Full Stack Web Developer |
+| **CURRENTLY WITH** | [Sharvaya Technosoft](https://sharvayatechnosoft.com/) |
+| **FOCUS** | Web Applications · E-commerce · Backend Development |
+| **BASED IN** | India |
 
 ---
 
-## WHAT I DO
+# 00 / THE INTRODUCTION
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## Not just websites. Working digital experiences.
 
-### 01. Frontend Development
+I am a Full Stack Web Developer interested in the complete process of building digital products—from interface development and backend logic to database integration and deployment.
 
-Creating responsive, accessible, and user-friendly interfaces with modern frontend technologies.
+My work spans business websites, e-commerce platforms, custom functionality and application development.
 
-    </td>
-    <td width="50%" valign="top">
-
-### 02. Backend Development
-
-Developing application logic, server-side functionality, database integrations, and APIs.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 03. Website Development
-
-Building professional business websites, dynamic websites, and custom web solutions.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 04. E-commerce Development
-
-Working with WooCommerce, product functionality, custom features, and online shopping experiences.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 05. API & Database Integration
-
-Connecting applications with backend services, REST APIs, and relational databases.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 06. Website Optimization
-
-Improving website performance, functionality, maintainability, and technical quality.
-
-    </td>
-  </tr>
-</table>
+I enjoy solving practical development problems, understanding how systems fit together and continuously improving the way digital products work.
 
 ---
 
-## SELECTED WORK
+# 01 / SELECTED WORKS
 
-A selection of websites and digital projects I've worked on.
+*A closer look at websites and development projects I've worked on.*
 
-### 01 — KAJale JEWELLERS
+### PROJECT 01 — KAJale JEWELLERS
 
-**E-commerce Development · WordPress · WooCommerce**
+**E-commerce / WordPress / WooCommerce**
 
-A jewellery e-commerce project involving online shopping functionality, custom WooCommerce features, and website enhancements.
+An online jewellery store project involving WooCommerce functionality, custom website enhancements and improvements to the shopping experience.
 
-**Development focus:**
-- WooCommerce customization.
-- Custom product-related functionality.
-- Website feature enhancements.
-- Shopping experience improvements.
+**Development areas**
+- WooCommerce functionality and customization
+- Product-related features
+- Custom website enhancements
+- E-commerce experience improvements
 
-<div align="center">
-
-[![Visit Website](https://img.shields.io/badge/VISIT_LIVE_WEBSITE-C9AD79?style=for-the-badge&logoColor=111111)](https://kajalejewellers.com/)
-
-</div>
+**[OPEN LIVE WEBSITE ↗](https://kajalejewellers.com/)**
 
 ---
 
-### 02 — MKCR FOODS
+### PROJECT 02 — MKCR FOODS
 
-**Website Development · Business Website**
+**Business Website / Web Development**
 
-A business website project focused on presenting the brand and its offerings through a professional online presence.
+A business website project focused on presenting the brand online through a structured website experience.
 
-**Development focus:**
-- Website interface development.
-- Responsive layouts.
-- Business content presentation.
-- Website functionality and usability.
+**Development areas**
+- Website interface development
+- Responsive layouts
+- Business information presentation
+- Website functionality
 
-<div align="center">
-
-[![Visit Website](https://img.shields.io/badge/VISIT_LIVE_WEBSITE-C9AD79?style=for-the-badge&logoColor=111111)](https://www.mkcrfoods.com/)
-
-</div>
+**[OPEN LIVE WEBSITE ↗](https://www.mkcrfoods.com/)**
 
 ---
 
-### 03 — VISHWAS ENGINEERING WORKS
+### PROJECT 03 — VISHWAS ENGINEERING WORKS
 
-**Business Website · Web Development**
+**Business Website / Engineering Industry**
 
-A business website showcasing engineering products, industrial solutions, and company information.
+A business website project for presenting engineering products, services and company information.
 
-**Development focus:**
-- Business website development.
-- Product and service presentation.
-- Responsive user interface.
-- Professional online presence.
+**Development areas**
+- Business website development
+- Product and service presentation
+- Website structure and usability
+- Responsive interface
 
-<div align="center">
-
-[![Visit Website](https://img.shields.io/badge/VISIT_LIVE_WEBSITE-C9AD79?style=for-the-badge&logoColor=111111)](https://vishwasengineeringworks.in/)
-
-</div>
+**[OPEN LIVE WEBSITE ↗](https://vishwasengineeringworks.in/)**
 
 ---
 
-### 04 — ORGAN
+### PROJECT 04 — ORGAN
 
 **Application Development**
 
-An application development project involving digital functionality and structured application development.
+An application development project involving software functionality and implementation work.
 
-**Development focus:**
-- Application functionality.
-- User interface development.
-- Feature implementation.
-- Application improvements.
+**Development areas**
+- Application functionality
+- Feature implementation
+- Interface development
+- Application improvements
 
-*Project link and additional technical details can be added when publicly available.*
-
----
-
-## TECHNOLOGY STACK
-
-Technologies and tools I work with across different development projects.
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend technologies"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend technologies"/>
-</p>
-
-### Database & CMS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,wordpress" alt="Database and CMS technologies"/>
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Development tools"/>
-</p>
+*Public project URL and further technical details are not currently listed.*
 
 ---
 
-## MY DEVELOPMENT APPROACH
+# 02 / WHAT I BUILD
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>01</h3>
-      **UNDERSTAND**
-      <br/>
-      <sub>Understand the requirements and objectives.</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>02</h3>
-      **PLAN**
-      <br/>
-      <sub>Structure the solution and development process.</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>03</h3>
-      **DEVELOP**
-      <br/>
-      <sub>Build functional and user-focused solutions.</sub>
-    </td>
-    <td align="center" width="25%">
-      <h3>04</h3>
-      **IMPROVE**
-      <br/>
-      <sub>Test, optimize, and refine the final product.</sub>
-    </td>
-  </tr>
-</table>
+| AREA | CAPABILITIES |
+|:--|:--|
+| **Frontend** | Responsive interfaces, React applications, modern layouts |
+| **Backend** | Server-side development, application logic, API integration |
+| **E-commerce** | WooCommerce, product functionality, custom features |
+| **CMS** | WordPress websites and customization |
+| **Databases** | MySQL and database-driven applications |
+| **Optimization** | Website performance, functionality and technical improvements |
 
 ---
 
-## GITHUB ACTIVITY
+# 03 / THE TOOLKIT
+
+*Technologies and tools used across my development work.*
+
+**01 — FRONTEND**
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Tailwind CSS` · `Vite`
+
+**02 — BACKEND**
+
+`PHP` · `Laravel` · `Node.js` · `Express.js`
+
+**03 — DATABASE & CMS**
+
+`MySQL` · `WordPress` · `WooCommerce`
+
+**04 — DEVELOPMENT TOOLS**
+
+`Git` · `GitHub` · `VS Code` · `Postman` · `Linux`
+
+---
+
+# 04 / HOW I APPROACH DEVELOPMENT
+
+**01 — UNDERSTAND**
+
+Understand the requirements, business objectives and user needs.
+
+**02 — STRUCTURE**
+
+Plan the interface, application architecture and functionality.
+
+**03 — BUILD**
+
+Develop the frontend, backend and integrations required.
+
+**04 — REFINE**
+
+Test functionality, resolve issues and improve the final experience.
+
+---
+
+# 05 / BEYOND THE CODE
+
+I believe good development is more than writing code. It involves understanding the purpose of a product, making thoughtful technical decisions and building something that works reliably.
+
+I am continuously developing my skills in full-stack engineering, modern application architecture and web technologies.
+
+---
+
+# 06 / FIND ME
+
+**Interested in discussing a project, exchanging ideas or collaborating?**
+
+You can find my work and professional presence here.
+
+| PLATFORM | LINK |
+|:--|:--|
+| **GitHub** | [Chanchal-patel23 ↗](https://github.com/Chanchal-patel23) |
+| **Professional Website** | [Sharvaya Technosoft ↗](https://sharvayatechnosoft.com/) |
+
+---
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Chanchal-patel23&bg_color=0d1117&color=C9AD79&line=C9AD79&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
+**CHANCHAL PATEL**
 
-<br/>
+*Design thoughtfully. Develop purposefully. Keep evolving.*
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chanchal-patel23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9AD79&icon_color=C9AD79&text_color=E6E6E6" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanchal-patel23&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9AD79&text_color=E6E6E6" alt="Most used programming languages"/>
-
-</div>
-
----
-
-## CURRENT FOCUS
-
-- Building modern full-stack applications.
-- Strengthening React and backend development skills.
-- Exploring scalable application architecture.
-- Improving API development and database integration.
-- Creating better digital experiences through continuous learning.
-
----
-
-## LET'S CONNECT
-
-<div align="center">
-
-### Have an idea or a project in mind?
-
-I'm interested in connecting with developers, exploring opportunities, and collaborating on meaningful digital projects.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GITHUB-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanchal-patel23)
-[![Website](https://img.shields.io/badge/SHARVAYA_TECHNOSOFT-242424?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharvayatechnosoft.com/)
-
-<br/>
-
----
-
-### CHANCHAL PATEL
-
-**FULL STACK WEB DEVELOPER**
-
-*Build with purpose. Develop with passion. Keep evolving.*
-
-<sub>© 2026 Chanchal Patel · Personal Developer Portfolio</sub>
+`END OF PORTFOLIO / 2026`
 
 </div>
