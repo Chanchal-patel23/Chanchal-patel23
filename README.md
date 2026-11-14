@@ -1,97 +1,97 @@
-# 👋 Hello, I'm Chanchal Patel
+ <div align="center">
 
-### Full Stack Web Developer | Sharvaya Technosoft
+<a href="https://sharvayatechnosoft.com/">
+  <img src="https://sharvayatechnosoft.com/logo-horizontal.png" alt="Sharvaya Technosoft" width="420">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chanchal--patel23-181717?style=for-the-badge&logo=github)](https://github.com/Chanchal-patel23)
-[![Developer](https://img.shields.io/badge/Role-Full%20Stack%20Developer-2563EB?style=for-the-badge)](https://github.com/Chanchal-patel23)
+# CHANCHAL PATEL
 
-Building modern digital experiences with clean code, thoughtful design, and reliable technology.
+### Full Stack Web Developer
 
-I develop responsive websites, business applications, e-commerce platforms, and custom web solutions.
+**Building practical digital experiences. Engineering reliable web applications.**
 
----
+[![Website](https://img.shields.io/badge/SHARVAYA_TECHNOSOFT-005A9C?style=for-the-badge)](https://sharvayatechnosoft.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanchal-patel23)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-## 🚀 About Me
-
-- 💼 Full Stack Web Developer at **Sharvaya Technosoft**
-- ⚛️ Developing modern frontend applications with React.js
-- 🛠️ Backend development with PHP, Laravel, and Node.js
-- 🌐 WordPress and WooCommerce customization
-- 🔗 API integration and database development
-- 🎯 Focused on performance, usability, and scalable solutions
-- 📚 Always learning and exploring new technologies
+</div>
 
 ---
 
-## 💻 Technology Stack
+## PROFILE
 
-| Frontend | Backend | Database & Tools |
-|---|---|---|
-| HTML5 | PHP | MySQL |
-| CSS3 | Laravel | Git |
-| JavaScript | Node.js | GitHub |
-| React.js | Express.js | Postman |
-| Tailwind CSS | REST APIs | VS Code |
+I'm a Full Stack Web Developer at **Sharvaya Technosoft**, focused on building responsive websites, business applications, and scalable digital solutions.
 
-### Technologies I Work With
+I work across frontend and backend technologies, turning business requirements into functional, maintainable applications.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+| Focus Area | What I Build |
+|---|---|
+| Frontend Development | Responsive interfaces and interactive web experiences |
+| Backend Development | Application logic, APIs and integrations |
+| CMS Development | WordPress and WooCommerce solutions |
+| Web Applications | Business platforms and custom workflows |
+| Database Development | Structured data and application integration |
 
----
+## TECHNOLOGY STACK
 
-## 🌟 Featured Projects
+<div align="center">
 
-### 01. ORGAN – Precision Sewing Technology
-Industrial website showcasing sewing machinery, automation technology, and business solutions.
+**FRONTEND**
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge)](https://github.com/Chanchal-patel23/ORGAN-Precision-Sewing-Technology)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 
-### 02. Vishwas Engineering Works
-Engineering business website and digital company presentation.
+**BACKEND & DATABASE**
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge)](https://github.com/Chanchal-patel23/vishwasengineeringworks)
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql" />
 
-### 03. Kajale Jewellers
-Jewellery e-commerce project with WooCommerce customization and integrations.
+**CMS & DEVELOPMENT TOOLS**
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge)](https://github.com/Chanchal-patel23/Kajale-Jwellers)
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman,linux" />
 
-### 04. MKCR Foods
-Food business website development project.
+</div>
 
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge)](https://github.com/Chanchal-patel23/mkcrfoods)
+## SELECTED PROJECTS
 
----
+### ORGAN — Precision Sewing Technology
+Website development for an industrial sewing technology business.
 
-## 📈 What I Build
+### Vishwas Engineering Works
+Business website and web application development.
 
-- Modern Corporate Websites
-- Full Stack Web Applications
-- E-commerce Platforms
-- Custom WordPress Solutions
-- Admin Dashboards & CMS
-- REST API Integrations
-- Business Management Systems
+### Kajale Jewellers
+WooCommerce-based jewellery e-commerce development and custom functionality.
 
----
+### MKCR Foods
+Web development and digital business solutions.
 
-## 🤝 Let's Connect
+<div align="center">
 
-**Chanchal Patel**  
-Full Stack Web Developer  
-Sharvaya Technosoft
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-005A9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chanchal-patel23?tab=repositories)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/Chanchal-patel23)
+</div>
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chanchal-patel23&show_icons=true&hide_border=true&title_color=005A9C&icon_color=65B32E&text_color=444444&bg_color=FFFFFF" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanchal-patel23&layout=compact&hide_border=true&title_color=005A9C&text_color=444444&bg_color=FFFFFF" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chanchal-patel23&hide_border=true&ring=005A9C&fire=65B32E&currStreakLabel=005A9C" />
+
+</div>
 
 ---
 
-*Designing. Developing. Improving. Building the future one project at a time.* 🚀
+<div align="center">
+
+### SHARVAYA TECHNOSOFT
+
+**Simplify. Automate. Grow.**
+
+[Website](https://sharvayatechnosoft.com/) · [GitHub](https://github.com/Chanchal-patel23)
+
+<sub>Designed around technology, precision and continuous improvement.</sub>
+
+</div>
